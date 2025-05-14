@@ -1,5 +1,8 @@
 {
     "author": "r1a",
     "description": "A module to log messages with different colors in the console.",
-    "hooker": true
+    "hooker": true,
+    "versions": [
+        "1.0.0"
+    ]
 }
