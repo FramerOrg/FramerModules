@@ -1,0 +1,9 @@
+{
+  "author": "r1a, wsu2059",
+  "description": "erispulse custom core",
+  "hooker": true,
+  "versions": [
+    "1.0.13",
+    "1.0.14"
+  ]
+}
