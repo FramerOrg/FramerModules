@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "MessageBase": "==1.0.1"
+    },
+    "option_dependencies": {},
+    "pip_dependencies": {}
+}

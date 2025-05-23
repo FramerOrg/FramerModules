@@ -2,6 +2,7 @@
   "author": "r1a",
   "description": "Base class for Yunhu Message API",
   "versions": [
-    "1.0.0"
+    "1.0.0",
+    "1.0.1"
   ]
 }
