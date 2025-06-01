@@ -1,9 +1,0 @@
-{
-    "dependencies": {},
-    "option_dependencies": {},
-    "pip_dependencies": {
-        "aiohttp": "",
-        "rich": "",
-        "prompt_toolkit": ""
-    }
-}
