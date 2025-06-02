@@ -3,8 +3,6 @@
   "base": "https://raw.githubusercontent.com/runoneall/FramerModules/refs/heads/main",
   "modules": [
     "LogSaver",
-    "MessageBase",
-    "ColorLogger",
-    "SendMessage"
+    "ColorLogger"
   ]
 }
