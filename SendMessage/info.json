@@ -1,8 +1,4 @@
 {
   "author": "r1a",
-  "description": "Send a message to a specified user or group",
-  "versions": [
-    "1.0.0",
-    "1.0.1"
-  ]
+  "description": "Send a message to a specified user or group"
 }

@@ -1,7 +1,0 @@
-{
-    "dependencies": {},
-    "option_dependencies": {},
-    "pip_dependencies": {
-        "requests": "==2.32.3"
-    }
-}

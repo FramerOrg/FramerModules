@@ -1,7 +1,0 @@
-{
-    "dependencies": {},
-    "option_dependencies": {},
-    "pip_dependencies": {
-        "rich": "==14.0.0"
-    }
-}
