@@ -2,6 +2,7 @@
   "name": "FramerOfficial",
   "base": "https://raw.githubusercontent.com/runoneall/FramerModules/refs/heads/main",
   "modules": [
+    "Pipeline",
     "LogSaver",
     "YunhuMessageSend",
     "YunhuHTTP",

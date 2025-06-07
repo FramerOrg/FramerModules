@@ -1,5 +1,5 @@
 {
   "author": "r1a",
-  "description": "A module to redirect logs to a file.",
+  "description": "Redirect Log To File",
   "hooker": true
 }
