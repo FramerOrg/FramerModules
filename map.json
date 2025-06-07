@@ -5,6 +5,7 @@
     "Pipeline",
     "LogSaver",
     "YunhuMessageSend",
+    "YunhuMessageEdit",
     "YunhuHTTP",
     "ColorLogger",
     "YunhuMessageStream",
