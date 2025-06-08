@@ -6,11 +6,13 @@
     "Pipeline",
     "LogSaver",
     "YunhuMessageSend",
+    "YunhuServer",
     "YunhuMessageEdit",
     "YunhuMessageBoard",
     "YunhuHTTP",
     "ColorLogger",
     "YunhuMessageStream",
-    "YunhuMessageBatch"
+    "YunhuMessageBatch",
+    "YunhuServNormal"
   ]
 }
