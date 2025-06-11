@@ -1,6 +1,6 @@
 {
   "name": "FramerOfficial",
-  "base": "https://raw.githubusercontent.com/runoneall/FramerModules/refs/heads/main",
+  "base": "https://raw.githubusercontent.com/FramerOrg/FramerModules/refs/heads/main",
   "modules": [
     "YunhuMessageHistory",
     "Pipeline",
