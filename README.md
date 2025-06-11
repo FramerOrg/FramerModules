@@ -2,6 +2,6 @@
 
 Framer Official Module Repository
 
-# Add This Origin
+# Document
 
-`https://raw.githubusercontent.com/FramerOrg/FramerModules/refs/heads/main`
+Visit the [Project Wiki](https://github.com/FramerOrg/FramerModules/wiki)
