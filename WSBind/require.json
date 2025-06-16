@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "Backend"
+  ],
+  "option_dependencies": [],
+  "pip_dependencies": [
+    "requests",
+    "websocket"
+  ]
+}

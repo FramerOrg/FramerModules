@@ -12,6 +12,7 @@
     "YunhuServer",
     "YunhuMessageEdit",
     "YunhuMessageBoard",
+    "WSBind",
     "YunhuServButtonClick",
     "YunhuServBotSetting",
     "YunhuServBotFollow",
