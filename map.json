@@ -2,29 +2,11 @@
   "name": "FramerOfficial",
   "base": "https://raw.githubusercontent.com/FramerOrg/FramerModules/refs/heads/main",
   "modules": [
-    "YunhuMessageHistory",
     "Pipeline",
     "LogSaver",
-    "YunhuDevPack",
-    "YunhuServMenuClick",
-    "YunhuMessageSend",
-    "YunhuServCommand",
-    "YunhuServer",
-    "YunhuMessageEdit",
-    "YunhuMessageBoard",
     "WSBind",
-    "YunhuServButtonClick",
-    "YunhuServBotSetting",
-    "YunhuServBotFollow",
     "Backend",
-    "YunhuServGroupLeave",
-    "YunhuServBotUnFollow",
-    "YunhuServGroupJoin",
     "GoBridge",
-    "YunhuHTTP",
-    "ColorLogger",
-    "YunhuMessageStream",
-    "YunhuMessageBatch",
-    "YunhuServNormal"
+    "ColorLogger"
   ]
 }
