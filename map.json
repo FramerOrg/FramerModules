@@ -6,7 +6,6 @@
     "LogSaver",
     "WSBind",
     "Backend",
-    "GoBridge",
     "ColorLogger"
   ]
 }
